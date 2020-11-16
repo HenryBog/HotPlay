@@ -1,2 +1,2 @@
-# hotPlay
+# HotPlay
 硬核
